@@ -12,20 +12,40 @@
         "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/fullscreen_demo.xml"
     },
     {
-        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/video_list_item.xml",
-        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/video_list_item.xml"
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/player_controls_container.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/player_controls_container.xml"
     },
     {
-        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/intents_demo.xml",
-        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/intents_demo.xml"
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/video_list_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/video_list_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/fragments_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/fullscreen_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/fullscreen_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/demo_home.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/demo_home.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/standalone_player_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/standalone_player_demo.xml"
     },
     {
         "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/player_controls_demo.xml",
         "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/player_controls_demo.xml"
     },
     {
-        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/standalone_player_demo.xml",
-        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/standalone_player_demo.xml"
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/action_bar_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/action_bar_demo.xml"
     },
     {
         "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/demo_home.xml",
@@ -36,6 +56,10 @@
         "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/playerview_demo.xml"
     },
     {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/playerview_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/playerview_demo.xml"
+    },
+    {
         "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/list_item.xml",
         "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/list_item.xml"
     },
@@ -44,7 +68,31 @@
         "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/action_bar_demo.xml"
     },
     {
+        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/video_list_item.xml",
+        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/video_list_item.xml"
+    },
+    {
+        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/intents_demo.xml",
+        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/intents_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/intents_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/intents_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/standalone_player_demo.xml",
+        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/standalone_player_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/player_controls_demo.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/player_controls_demo.xml"
+    },
+    {
         "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout/fragments_demo.xml",
         "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout/fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/layout/video_list_item.xml",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/layout/video_list_item.xml"
     }
 ]

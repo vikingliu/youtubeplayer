@@ -22,7 +22,7 @@ import com.google.android.youtube.player.YouTubePlayer.PlaybackEventListener;
 import com.google.android.youtube.player.YouTubePlayer.PlayerStateChangeListener;
 import com.google.android.youtube.player.YouTubePlayer.PlayerStyle;
 import com.google.android.youtube.player.YouTubePlayer.PlaylistEventListener;
-import com.toutiao.i18n.youtube.YouTubePlayerView;
+import com.bytedance.i18n.youtube.YouTubePlayerView;
 //import com.google.android.youtube.player.YouTubePlayerView;
 
 import android.content.Context;

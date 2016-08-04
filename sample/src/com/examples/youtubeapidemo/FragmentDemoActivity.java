@@ -18,7 +18,7 @@ package com.examples.youtubeapidemo;
 
 import com.google.android.youtube.player.YouTubeBaseActivity;
 import com.google.android.youtube.player.YouTubePlayer;
-import com.toutiao.i18n.youtube.YouTubePlayerFragment;
+import com.bytedance.i18n.youtube.YouTubePlayerFragment;
 
 import android.os.Bundle;
 

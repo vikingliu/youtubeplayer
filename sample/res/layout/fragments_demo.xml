@@ -28,7 +28,7 @@
       android:text="@string/playerfragment_text"/>
 
   <fragment
-      android:name="com.toutiao.i18n.youtube.YouTubePlayerFragment"
+      android:name="com.bytedance.i18n.youtube.YouTubePlayerFragment"
       android:id="@+id/youtube_fragment"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"/>

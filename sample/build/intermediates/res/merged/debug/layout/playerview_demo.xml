@@ -27,7 +27,7 @@
       android:gravity="center"
       android:text="@string/playerview_text"/>
 
-  <com.toutiao.i18n.youtube.YouTubePlayerView
+  <com.bytedance.i18n.youtube.YouTubePlayerView
       android:id="@+id/youtube_view"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"/>

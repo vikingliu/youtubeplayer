@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_thumbnail.png",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/drawable-mdpi/loading_thumbnail.png"
+    },
+    {
         "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4/no_thumbnail.png",
         "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/drawable-mdpi/no_thumbnail.png"
+    },
+    {
+        "merged": "/Users/viking/github/youtubeplayer/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4/no_thumbnail.png",
+        "source": "/Users/viking/github/youtubeplayer/sample/res/drawable-mdpi/no_thumbnail.png"
     },
     {
         "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_thumbnail.png",

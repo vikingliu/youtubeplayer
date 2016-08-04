@@ -4,24 +4,63 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="600898673774702"
+    timestamp="605014597554728"
     token="7471531141858793374" >
 
     <task
         name="javac"
-        duration="361" />
+        duration="523" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="56" />
+        duration="222" />
     <task
         name="verifier"
-        duration="6" />
+        duration="39" />
 
     <artifact
-        location="/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5bfde9c4dbfb87951392774ef8937b8cdcae783b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_53f6f271bfcc23878581386383cda6817ee07775/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_538320c4866b62c1dfb60f13f1611f6e154f7bae/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
         type="DEX" />
 
     <build timestamp="591186748595848" >
@@ -42,6 +81,50 @@
     <build timestamp="600898673774702" >
         <artifact
             location="/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="605014597554728" >
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5bfde9c4dbfb87951392774ef8937b8cdcae783b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_53f6f271bfcc23878581386383cda6817ee07775/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_538320c4866b62c1dfb60f13f1611f6e154f7bae/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/viking/github/youtubeplayer/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
             type="DEX" />
     </build>
 

@@ -20,7 +20,7 @@ import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;
 
 import com.google.android.youtube.player.YouTubePlayer;
-import com.toutiao.i18n.youtube.YouTubePlayerView;
+import com.bytedance.i18n.youtube.YouTubePlayerView;
 
 import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;

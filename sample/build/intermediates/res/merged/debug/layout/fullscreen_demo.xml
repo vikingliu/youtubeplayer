@@ -20,7 +20,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-  <com.toutiao.i18n.youtube.YouTubePlayerView
+  <com.bytedance.i18n.youtube.YouTubePlayerView
       android:id="@+id/player"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"/>
