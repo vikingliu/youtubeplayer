@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout-land/playerview_demo.xml",
+        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout-land/playerview_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout-land/fragments_demo.xml",
+        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout-land/fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/res/merged/debug/layout-land/player_controls_demo.xml",
+        "source": "/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/res/layout-land/player_controls_demo.xml"
+    }
+]

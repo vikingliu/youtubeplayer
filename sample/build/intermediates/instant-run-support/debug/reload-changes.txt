@@ -1,0 +1,5 @@
+CHANGED,/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/toutiao/i18n/youtube/YouTubePlayerView$GlobalFocusChangeListenerImpl$override.class
+CHANGED,/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/toutiao/i18n/youtube/YouTubePlayerView$override.class
+CHANGED,/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/toutiao/i18n/youtube/YouTubePlayerView$1$override.class
+CHANGED,/Users/viking/Downloads/YouTubeAndroidPlayerApi-1.2.2/sample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/toutiao/i18n/youtube/YouTubePlayerView$2$override.class
